@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMAD Assignment 1</string>
+    <string name="TextView">THE HISTORY APP</string>
+    <string name="button1">Generate History</string>
+    <string name="button2">Clear</string>
+    <string name="TextView2">Enter the Number:</string>
+    <string name="editText">Enter a number 20-100</string>
+</resources>
